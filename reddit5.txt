@@ -1,0 +1,76 @@
+TITLE: Finished my CS degree and know nothing about programming
+
+SUBREDDIT: r/learnprogramming
+URL: https://claude.ai/chat/60b7bf75-5057-4c4a-87df-cb42e18e47e3finished_my_cs_degree_and_know_nothing_about/
+
+POST:
+[removed]
+
+COMMENTS:
+[It's really concerning how often this seems to happen. We may have to add this to the FAQ.
+
+Try some of these previous threads for advice:
+
+https://www.reddit.com/r/learnprogramming/comments/ezedi1/about_to_finish_cs_degree_but_cant_code/
+
+https://www.reddit.com/r/learnprogramming/comments/14m6p1a/i_graduated_with_a_computer_science_degree_but/
+
+https://www.reddit.com/r/learnprogramming/comments/1b2iotg/has_anyone_else_finished_a_degree_and_still_feel/]
+
+---
+
+[It's really concerning how often this seems to happen. We may have to add this to the FAQ.
+Yeah, CS is one of the few fields that you graduate having little to no practical knowledge of the field. They teach so much theory and algorithms they forget to teach anything practical. It's basically a "missing semester".
+
+I found this link from another saved comment:
+
+https://missing.csail.mit.edu/2020/]
+
+---
+
+[Okay. Best time to do this was 4 years ago... next best time is now ig.
+
+There is so much to learn dont get stuck in analysis paralysis. You have chosen web development. Here is your "stack".
+
+Language :
+
+JS/TS - if your arent familiar, start with Javascript then merge to Typescript.
+Framework :
+
+React as it seems to be the markets favorite
+Tailwindcss - why learn CSS (edit: personally I don’t need pure CSS often, still useful to know)
+Backend Language (specifically how to make an api) :
+
+Python
+GoLang - alternative
+Java - probably the most popular according to comments (edit)
+Database :
+
+Mongo (its basically JSON)
+Postgres (its free easy to work with)
+Tools :
+
+VS Code (basic text editor, customize to your liking) - where you will do coding
+Postman (could be the vsc extension even) - allows you to test api calls
+git - how to share and save code, read atleast thru ch 4
+vite - scaffolds projects
+npm or bun - simply a package manager
+This is what you need to start. Any links above link to the official docs for said thing. I would read them. Seriously I would read them, fully understand each.
+
+Next build these :
+
+Portfolio Site - who you are, what you do, projects page, resume basic SPA
+Crud Application - Connect a DB to a frontend, even if it just a mirror for your database that allows updates
+Build a Twitter clone, and other famous websites, good practice
+Continue along this road while applying
+If you need someone to hold your hand through this :
+
+TheOdinProject
+RoadMaps.sh
+Neither are perfect but should be good enough to keep you progressing. TOP covers alot of the topics above. Roadmaps I would recommend Frontend, Typescript or React for frontend, and Backend or Python for backend.
+
+This should be more than enough. Best of luck, no excuse now.
+
+Edit : added some suggestions from comments.
+
+Edit2 : thank you for the award, my first ever!]

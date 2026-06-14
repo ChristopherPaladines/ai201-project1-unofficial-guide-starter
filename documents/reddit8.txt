@@ -1,0 +1,19 @@
+TITLE: How to be a successful CS major?
+SUBREDDIT: r/learnprogramming
+URL: https://www.reddit.com/r/learnprogramming/comments/smwl5y/how_can_i_further_my_computer_science_skills_and/
+
+POST:
+Im a 16 year old doing a computer science A level. Im looking for advise on any useful or marketable skills i can learn (and resources if possible) to help me get a headstart in a comp sci career.
+
+COMMENTS:
+[Just focus on one well-established language, such as Java, JavaScript, Python, or C# and become proficient at it. Learn algorithms, data structures, and design patterns, object-oriented modeling, functional programming and implement them by building some creative project in your chosen language. Don't neglect the peripheral skills such as documentation (technical writing, comments), good style (check out Code Complete, Clean Code, etc), dev tools like git, maven, debuggers, unit testing. Learn basic SQL and set up a PostgreSQL database, learn regex, learn to install and work in Linux, bash scripting, how to automate the build process and deployment, software engineering methodologies like critical path analysis and agile, UML modeling, as well as basic EE such as boolean algebra, digital circuits, finite state machines, etc. And cultivate soft skills, interpersonal communication, written communication, participate in software communities online, write to authors of books you like or open source projects you like, network, observe how they talk, be their friend.
+
+It's honestly kind of a shame you're worried about career at that age, but I can't say you're wrong to be. That's life these days I suppose. Good luck.
+
+---
+
+[Linux. Learn bash. Either from the Windows subsystem for linux, or a dedicated vm or hardware. Linuxfoundation.org has free online classes. Good luck!]
+---
+
+[Build a simple web app in React, Node, Express, and PostGresSql. Deploy to AWS and check the code into Git. These are extremely marketable languages that can get you a six figure salary.]
+

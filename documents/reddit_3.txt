@@ -1,0 +1,37 @@
+TITLE: Programmers, what do you actually do in your job, and what's your job title?
+SUBREDDIT: r/cscareerquestions
+URL:https://www.reddit.com/r/cscareerquestions/comments/1islff2/programmers_what_do_you_actually_do_in_your_job/
+
+POST:
+['m currently in college learning programming, but I actually don't know what I wanna do with it. I enjoy programming but idk what specific job I might want. I've thought about Cybersecurity but its not really exciting to me.
+
+I like programing games but working as a game dev seems like a bad idea, something where I do a lot of problem solving sounds fun but that's super vague, and AI looks cool but I haven't learned about it yet so idk.]
+
+If you have advice could you please inform me on stuff like what to learn outside of class and stuff so I won't end up jobless? I also want to get internships, but again I don't know what I should be learnin]
+
+COMMENTS:
+[As a senior engineer working in a SAFe Agile corporate development environment...
+
+Go to meetings about going to more meetings about going to more meetings.
+
+Make sure the Jira is filled out the way my 6 managers want it filled out.
+
+Hope that the cybersecurity team hasn't blocked access from the production websites and applications to the production databases, again.
+
+Get assigned to work on legacy code that was originally written in 2001 by a developer who has long since retired.
+
+Write more design analysis documents for upper management who desperately want to replace us with an do-it-all snake oil ERP system or outsource the work to the cheapest offshore contractors they can find.
+
+Hope to do actual real development work again at some point before I retire.]
+---
+
+[
+My title is software engineer. I write Kafka streams apps in Java to process hundreds of thousands of Kafka messages per second, and perform real time aggregations on them before storing them in a database. The aggregated data that I produce is used by an AI model to rank priority of flights for an airline.]
+---
+
+[
+get ticket from jira. figure out what they actually want.
+
+think for a while about how i'm going to do what they're asking for. if i'm not sure, track down someone who might know. have chatgpt spit out boilerplate code. realize that chatgpt hallucinated a bunch of stuff, read the docs, and rewrite the code myself.
+
+get other people to look at my code. make changes they suggest and we agree on. send code to QA. merge to main.]

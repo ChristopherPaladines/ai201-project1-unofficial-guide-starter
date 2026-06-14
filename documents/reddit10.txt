@@ -1,0 +1,46 @@
+TITLE: Just graduated, no experience or projects, how do I prepare to break into the industry?
+SUBREDDIT: r/cscareerquestions
+URL: https://www.reddit.com/r/cscareerquestions/comments/zp4gln/just_graduated_no_experience_or_projects_how_do_i/
+
+POST:
+[o everyone. I just graduated with a bachelor's degree in computer science. I have made no substantial projects and have no internships/experience under my belt. I just somewhat coasted through my state university's program. I have some confidence in my ability to program and solve problems, but I have no idea about what I need to learn/do now to actually get a job. Does anybody have suggestions on where I should go from here?]
+
+COMMENTS:
+[
+Be good at Leetcode and you will get a job, you can write a "project" in a day by following a youtube tutorial. To understand the hiring process read a few chapters of Cracking the Coding interview.]
+
+---
+
+[
+This is good advice.
+
+OP as you begin your job grind journey, save this somewhere and re-read it if/when imposter syndrome strikes.
+
+Get 3-4 projects (embellish the fuck out of your school projects too so you really need maybe 1 or 2 new projects) padded on your resume, fuck up 10-12 interviews, and eventually you’ll land a job.
+
+Maybe you’ll fuck up less and maybe more.
+
+RESEARCH PHASE
+
+DSA textbook, personal projects, and 10-15 leetcode easies.
+
+GRIND LEETCODE PHASE
+
+Leetcode for real, and get over any anxiety during interviews. Start applying more and aim for 1 interview a week that you accept will probably be awful each time for a little while.
+
+INTERVIEW PHASE
+
+Be more comfortable with leetcode questions now (how many you should have done varies person to person). You should come up with STAR responses to basic interview questions as well. (Have a few STARRY stories and take the question you are given and relate it back to one of these).
+
+I have a mild-severe stutter and a lot of this process was overcoming anxiety during interviews (hence the failure is absolute certainty for the beginning haha).
+
+Other pitfalls can creep up depending on how long this period lasts though. It is best to cement your life with a strict schedule of diet, sleep, and exercise. Pomodoro your way through your periods of work.
+
+Have set time to relax and not think about work (VERY IMPORTANT FOR ME: this relaxation can really only exist if I pushed myself that day. Relaxation isn’t relaxation if all you do is relax. Procrastination is critical here as well as you will have seemingly not achieved anything yet your mind was in “work mode” the entire time).]
+
+---
+
+[
+As far as projects go, I am sure you did at least one during your coursework. Pick one that was moderately complex and just hype it the fuck up. I don't mean lie about it, but show general interest and some excitement when talking about it.
+
+I only had basic projects for my internship offers but they said that my excitement about the projects is why they ended up choosing me. New grad interviews is a little different than internship interviews bur not too different.

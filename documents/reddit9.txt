@@ -1,0 +1,44 @@
+TITLE: [deleted by user]
+SUBREDDIT: r/learnprogramming
+URL: https://www.reddit.com/r/learnprogramming/comments/1hbziw0/deleted_by_user/
+
+POST:
+[removed]
+
+COMMENTS:
+[
+For some perspective, I got a CS degree 20 years ago. The programming languages I use today in my job didn't exist back then. Half of the languages I used in school are basically no longer used anywhere.
+
+And yet, my CS degree was very useful and relevant. Things like algorithms & data structures, and the core concepts of how networking, operating systems, and databases work haven't changed. Nearly everything I learned about assembly language and how computer architecture works is still relevant, with just a few minor differences today.
+
+So it's important to understand that a good CS degree focuses on teaching you the fundamentals and the theory, because that stuff is always relevant and changes slowly.
+
+Specifics, like languages and frameworks and tools, change rapidly. Schools aren't equipped to train you in the latest and greatest. You need to develop a habit of learning.
+
+What you can do:
+
+Build stuff outside of class. Follow tutorials to build web sites, mobile apps, whatever interests you.
+Look up job postings that might interest you. See what they expect you to know. Learn that.
+Start applying for internships now. (Summer 2025 internships are already being posted, it's not too early to start applying.)]
+
+---
+
+[Don't worry about picking what specialization you want to do for your career.
+
+Instead, pick a few specializations you want to learn more about. Try them and see if you like them.
+
+Some possibilities are:
+
+Web development - follow The Odin Project or FreeCodeCamp
+Android development - https://developer.android.com/guide
+iOS development - https://developer.apple.com/tutorials/develop-in-swift/
+Robotics - https://docs.arduino.cc/tutorials/
+However, that's just a tiny fraction. You could do cloud, or machine learning, or games, or many other things.
+
+Where do you want to work? Look up job postings and see what skills they expect.
+
+What kind of software do you want to build? Learn what tools existing software uses and learn those]
+
+---
+
+[ don't know what you have learned so far, but take all the skills and see what kind of projects you can make with it. If you learned a programming language like c++ or Java just that. Right now, you should be trying to develop good habits with declaring variable names, function names, when to know make new function, class, scope of variables etc.]

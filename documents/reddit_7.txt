@@ -1,0 +1,30 @@
+TITLE: How do I prepare for Computer Science major?
+
+SUBREDDIT: r/learnprogramming
+URL:https://www.reddit.com/r/learnprogramming/comments/11dgi45/how_do_i_prepare_for_computer_science_major/
+
+POST:
+[I’ve been seriously contemplating quitting my part-time job and going to community college (only education i can afford currently) to get a CS degree. I don’t have any programming experience, I graduated high school (luckily) about two years ago, but forgot a lot of the math. What areas in math or school subjects in general should I refresh on to prepare myself? or is everything in CS new and I’Il learn it once I start school. Hoping to get advice from people who graduated or at least attempted CS. Tried posting in r/computerscience but my account was ‘too new’. Thanks.
+]
+
+COMMENTS:
+[I would find a college or university you're thinking of applying to, schedule an appointment, and go over the requirements needed to graduate. For example, CS majors generally have to complete some math, and usually, most students need to learn calculus (at least in the US). So if you're not up to calculus, you'd have to learn enough math to get ready for calculus.
+
+Depending on where you go, a CS major can be somewhat mathematical. Not necessarily the programming parts, but often you'll learn discrete math and algorithms, and they require some level of mathematical maturity.
+
+---
+
+[Figure out the primary programming language they teach you in their intro courses, give yourself as much of a primer in it as you can. See if you even like programming before you get into the thick of it. 
+]
+
+---
+
+[ think the advice is, go talk to a college advisor. They will talk to you even before you have enrolled.
+
+You might find that the mathematical requirements are covered by the colleges plan for getting you to your degree. Or, they might suggest areas where you could refresher skills before you enroll.
+
+It’s a bit more work than asking reddit, but you will get a better answer
+
+ADDED: here is an example of one community college. They state very clearly that prospective students are welcome to call and schedule an appointment with an advisor. I would do that.
+
+https://www.shoreline.edu/advising/advisors.aspx]

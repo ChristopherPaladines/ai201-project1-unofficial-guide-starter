@@ -1,0 +1,26 @@
+TITLE: How Hard Is It To Complete a Computer Science Degree
+SUBREDDIT:r/learnprogramming
+URL:https://www.reddit.com/r/learnprogramming/comments/1foktfc/how_hard_is_it_to_complete_a_computer_science/
+
+POST:[I'm very keen on doing computer science because it can open up many doors in the IT Space, how hard would it be for someone like me who is very bad at math to get my degree?
+]
+
+-
+COMMENTS:
+
+[
+Depends on the school you're attending, how much free time you have to dedicate to it, and what your standards are]
+
+
+------
+[If you want to do IT, you should do a degree specifically in IT. CS is more math heavy then that because CS degrees do not teach you how to do much IT stuff unless you specialize, they teach you about how computers work and how programs work (which requires a lot of math)
+
+ ]
+
+----------
+
+
+
+[
+Depends on how motivated you are to work on it. Most people of average intelligence are perfectly capable of completing a CS degree.
+]

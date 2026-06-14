@@ -1,0 +1,24 @@
+TITLE: How much did you struggle in CS undergrad??
+SUBREDDIT: r/cscareerquestions
+URL: https://www.reddit.com/r/cscareerquestions/comments/2lu2lr/how_much_did_you_struggle_in_cs_undergrad/
+
+POST:
+I am currently a freshman going for my computer science degree. In my first year class we are learning java and i am somewhat struggling. I still have a solid B- in the class. I was wondering if it got any better for any of yall that have already graduated? did you struggle at first with your classes? Does it get any better eventually?
+COMMENTS:
+
+[It's a difficult major. The hardest part is time management. High School was easy for me so I never really had to learn how to manage my time, study and I often just blew off projects because I always aced the tests. In programming classes you really have to start early because when you get stuck on something and there's no one around to help you it can take hours and hours and figure out why your program keeps bugging out. I recommend being very social with your classmates and getting together and doing pair-programming. It helped me focus and often prevents you from getting stuck for 6+ hours on a silly technical problem.
+
+Also, make a good relationship with your professors. CS professors can be a little socially awkward, preoccupied and sometimes cold. I used to be scared of going and talking to my professors in their office hours because I didn't want to come off as stupid but they've seen much stupider people than you certainly and often get asked very dumb questions. Just show them that you are working hard to understand, be patient and courteous with them. They're paid to be in their office hours to help you work out your problems in class. Make sure you take advantage of this.]
+
+---
+
+[If this is your first experience learning programming fundamentals, it's going to be difficult for a little bit. Learning to code is like learning a new language. It's going to take some time, but if it interests you and you stick with it, it WILL get better.]
+
+---
+
+[
+You bet your ass I struggled with my first class. I had never touched a piece of code and couldn't fathom how to access an array for a week. (I laugh at that fact now) You should stick with it if you are generally interested into it. I see a lot of people that get into it for the wrong reasons, cough money cough and they generally turn out to be crappy programmers.
+
+One thing I will say is that programming is a skill, it takes time to develop and the more you use it, the better you get. You have to be generally curious about it, otherwise you will just hate it. If you like it, keep struggling with it, because a good programmer loves that struggle. They thrive off that feeling of solving a hard to find bug, or implementing a cool feature, but they also can handle the stress that comes from not being able to find a hard bug.
+
+Don't be afraid to ask questions either, a lot of people seem like they know what they are doing, but they don't. No one wants to look like they are struggling, the people that seem to be wizards put in work behind scenes to get to the level they are at.]

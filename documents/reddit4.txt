@@ -1,0 +1,24 @@
+TITLE: What should a CS student be learning outside of the classroom?
+
+SUBREDDIT: r/cscareerquestions
+URL: https://www.reddit.com/r/cscareerquestions/comments/1fnikk9/what_should_a_cs_student_be_learning_outside_of/
+
+POST:
+[
+So I feel like the common consensus is that CS degrees are more theoretical and don’t necessarily align with the skills that will get you hired in this market. With that being said, what skills/languages/certifications/etc. should a CS student focus on outside of the classroom to be competitive in this market? Thanks
+
+Edit: I’m studying Data Science if that helps narrow the scope down]
+
+COMMENTS:
+[
+Learn how to master using libraries and APIs. Learn the cloud. Organizations will always have better computers or private programs that you couldn't make yourself in a million years. You want to figure out how to use code to tap into those services and reliably extract the power out of what is available to you. Generally in the cheapest way possible.]
+
+---
+
+[How to talk to people. Most cs majors are either pretty introverted people or actually autistic. Being confident in an interview is such a huge green flag I have. Exude that Phronimos vibe and pass the behaviorals easily.]
+
+---
+
+[Social skills are seriously important and often lacking in the tech industry. I've been involved in hiring processes where we have rejected extremely technically adept candidates because they seem like a nightmare to work with every day.
+
+Honestly, most CS students would get more from going down to the common room for predrinks than from spending more time studying. University is a once-in-a-lifetime opportunity to practice socialising with no real consequences - don't waste your time on dusty tomes that you can read whenever you want.]
