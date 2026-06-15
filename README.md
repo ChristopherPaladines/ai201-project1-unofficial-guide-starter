@@ -9,11 +9,13 @@
 
 ## Domain
 
-<!-- What topic or category of knowledge does your system cover?
-     Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
-
+CS major survival tips collected from Reddit threads. This covers real student 
+advice on how to succeed in a CS degree, what to learn outside of class, and 
+how to break into the industry. This knowledge is valuable because it reflects 
+honest student experiences — not the polished information universities put on 
+their websites. You can't find this through official channels because schools 
+won't tell you how hard Data Structures really is or what skills actually get 
+you hired.
 ---
 
 ## Document Sources
@@ -93,11 +95,12 @@
 
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+| 1 |How do I prepare before starting a CS degree? | Study discrete math and practice coding early|
+| 2 |What should CS students learn outside of class?|Build projects, learn Git, pursue internships
+| 3 |How hard is it to finish a CS degree?|Hard but doable with consistency and good habits|
+| 4 |How do I build practical programming skills?|Build real projects, contribute to open source|
+| 5 |What do CS students wish they knew earlier? |Start projects early, network, don't just study theory|
+
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
