@@ -21,7 +21,7 @@ Q: [List your specific sources: URLs, subreddit names, forum threads, or file de
 |---|--------|-------------|-----------------|
 | 1 |r/learningprogramming|"How to be a successful CS major?"|https://www.reddit.com/r/learnprogramming/comments/1jmz8ms/how_to_be_a_successful_cs_major/|                 
 | 2 |r/learningprogramming |"How do I prepare for Computer Science major?"|https://www.reddit.com/r/learnprogramming/comments/11dgi45/how_do_i_prepare_for_computer_science_major/|
-| 3 |r/cscareerquestions|"finishing a CS degree faster ? how ? send help ?"|https://www.reddit.com/r/cscareerquestions/comments/pro1td/finishing_a_cs_degree_faster_how_send_help/|
+| 3 |r/cscareerquestions|what gets you a job in software development rrddit ?"|https://www.reddit.com/r/cscareerquestions/comments/1islff2/programmers_what_do_you_actually_do_in_your_job/|
 | 4 |r/learningprogramming|"How Hard Is It To Complete a Computer Science Degree"
 |https://www.reddit.com/r/learnprogramming/comments/1foktfc/how_hard_is_it_to_complete_a_computer_science/|
 | 5 |r/learningprogramming|"What's the best way to prepare myself for a degree in computer science?"|https://www.reddit.com/r/learnprogramming/comments/951xmkwhats_the_best_way_to_prepare_myself_for_a_degree/|
